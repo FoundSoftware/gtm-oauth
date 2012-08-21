@@ -1,0 +1,3 @@
+[submodule "HTTPFetcher"]
+	path = HTTPFetcher
+	url = git@github.com:FoundSoftware/gtm-http-fetcher.git
