@@ -391,7 +391,7 @@ static NSString *const kUserEmailIsVerifiedKey    = @"isVerified";
                    kOAuthVersionKey,
                    kOAuthCallbackKey,
                    // extensions
-                   kOAuthDisplayNameKey,
+//                   kOAuthDisplayNameKey,
                    kOAuthScopeKey,
                    nil];
   return keys;
